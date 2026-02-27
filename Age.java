@@ -1,5 +1,5 @@
 public class Age {
-   public Age() {
+   public Age() 
 
    public static void main(String[] var0) {
       short var1 = 2000;
